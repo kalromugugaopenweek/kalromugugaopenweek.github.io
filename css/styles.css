@@ -23,7 +23,7 @@ body{
 }
 
 #loader img{
-    width:60%;
+    width:80%;
     max-width:220px;
 }
 
@@ -138,4 +138,5 @@ body{
     color:#01a755;
     text-decoration:none;
 }
+
 
