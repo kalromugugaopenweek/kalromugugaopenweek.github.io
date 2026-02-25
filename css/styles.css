@@ -8,7 +8,20 @@ body{
     font-family:system-ui,-apple-system,sans-serif;
     overflow-x:hidden;
 }
-
+#countdown {
+    font-size: clamp(18px, 4vw, 26px);
+    font-weight: bold;
+    margin-bottom: 20px;
+    color: #01a755;
+}
+.countdown_title{
+    font-size:clamp(16px,3.5vw,22px);
+    font-weight:600;
+    margin-top:10px;
+    margin-bottom:5px;
+    text-align:center;
+    color:#01a755;
+}
 /* ================= LOADER ================= */
 #loader{
     position:fixed;
@@ -140,20 +153,8 @@ body{
     color:#01a755;
     text-decoration:none;
 }
-#countdown {
-    font-size: clamp(18px, 4vw, 26px);
-    font-weight: bold;
-    margin-bottom: 20px;
-    color: #01a755;
-}
-.countdown_title{
-    font-size:clamp(16px,3.5vw,22px);
-    font-weight:600;
-    margin-top:10px;
-    margin-bottom:5px;
-    text-align:center;
-    color:#01a755;
-}
+
+
 
 
 
