@@ -139,6 +139,13 @@ body{
     color:#01a755;
     text-decoration:none;
 }
+#countdown {
+    font-size: clamp(18px, 4vw, 26px);
+    font-weight: bold;
+    margin-bottom: 20px;
+    color: #01a755;
+}
+
 
 
 
