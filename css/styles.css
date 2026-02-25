@@ -45,7 +45,7 @@ body{
 /* ================= TOP SECTION ================= */
 .top-section{
     position:relative;
-    height:10vh;
+    height:50vh;
     background:#01a755;
     color:white;
     display:flex;
@@ -230,6 +230,7 @@ body{
     0%{ transform:rotate(0deg); }
     100%{ transform:rotate(360deg); }
 }
+
 
 
 
