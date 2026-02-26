@@ -102,7 +102,6 @@
     left: 0;
     width: 100%;
     height: 28%;
-    background: url("../assets/bg.webp") center/cover no-repeat;
     opacity: 0.2;
     z-index: 0;
     pointer-events: none;
@@ -172,3 +171,4 @@
     color: #01a755;
     text-decoration: none;
 }
+
