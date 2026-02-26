@@ -93,6 +93,7 @@
     flex-direction: column;
     justify-content: center;
     gap: 8px;
+    background: white;
 }
 
 .bottom-section::after {
@@ -171,4 +172,5 @@
     color: #01a755;
     text-decoration: none;
 }
+
 
