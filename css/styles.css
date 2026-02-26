@@ -57,7 +57,7 @@ body {
 
 .logo {
     width: 130px;
-    margin: 0 0 10px;
+    margin: 10px 0 10px;
     border-radius: 50px;
 }
 
@@ -190,3 +190,4 @@ body {
     color: #01a755;
     text-decoration: none;
 }
+
