@@ -137,6 +137,7 @@ img {
     margin: auto;
     padding: 40px 20px 80px;
     text-align: center;
+    gap: 10px;
 }
 
 .countdown_title {
@@ -263,5 +264,6 @@ img {
     .description { font-size: 14px; }
     .register-button { padding: 10px 18px; font-size: 14px; }
 }
+
 
 
