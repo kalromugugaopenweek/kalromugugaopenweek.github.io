@@ -27,7 +27,7 @@
 
 .top-section {
     position: relative;
-    height: 42vh;
+    height: 50vh;
     background: #01a755;
     color: white;
     display: flex;
@@ -40,7 +40,7 @@
 }
 
 .logo {
-    width: 130px;
+    width: 200px;
     margin: 0 0 10px;
     border-radius: 50px;
 }
@@ -172,5 +172,6 @@
     color: #01a755;
     text-decoration: none;
 }
+
 
 
