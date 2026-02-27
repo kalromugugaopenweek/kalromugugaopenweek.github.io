@@ -1,13 +1,11 @@
 /* ================= PAGE LOADER ================= */
-
 window.addEventListener("load", function () {
-    const loader = document.getElementById("loader");
-    if (loader) {
-        loader.style.opacity = "0";
-        setTimeout(() => {
-            loader.style.display = "none";
-        }, 400);
-    }
+  const loader = document.getElementById("loader");
+  loader.style.opacity = "0"; // fade out
+
+  setTimeout(function () {
+    loader.style.display = "none"; // remove from DOM
+  }, 400);
 });
 
 /* ================= MOBILE NAVIGATION ================= */
@@ -77,5 +75,6 @@ updateCountdown();
 
 // Update every second
 setInterval(updateCountdown, 1000);
+
 
 
